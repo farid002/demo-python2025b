@@ -1,1 +1,7 @@
 print("salam2")
+print("salam3")
+print("salam45462")
+print("salam2")
+print("salam2")
+print("salam2")
+print("salam2")
